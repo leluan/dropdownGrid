@@ -5,7 +5,7 @@
  *
  *  Date: 2016-09-29
  *
- *  for HealthOne by luanle
+ *  for project by luanle
  */
 (function($) {
 
