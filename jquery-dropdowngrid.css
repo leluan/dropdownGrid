@@ -1,0 +1,11 @@
+.dropdown-grid{
+	margin: 0px;
+}
+	.dropdown-grid .main-content-table{
+		top:0px;
+		border: none;
+		bottom:0px;
+	}
+	.dropdown-grid .main-content-table table{
+		min-width:100px;
+	}
